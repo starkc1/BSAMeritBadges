@@ -1,0 +1,2 @@
+F:\1_App\BSAMeritBadges\BSAMeritBadges\BSAMeritBadges.UWP\BSAMeritBadges.UWP.csproj;x64
+F:\1_App\BSAMeritBadges\BSAMeritBadges\BSAMeritBadges\BSAMeritBadges.csproj;neutral
